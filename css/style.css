@@ -79,7 +79,7 @@ body {
 
     header {
         height: 60vh;
-        background-image: url("././img/bg-header.jpg");
+        background-image: url("./../img/bg-header.jpg");
         background-position: left;
         background-repeat: no-repeat;
         background-size: cover;
